@@ -3,5 +3,17 @@
   "language": "en",
   "structure": {
     "readme": "README.md"
+  },
+  "links": {
+    "sharing": {
+      "all": null,
+      "facebook": null,
+      "google": null,
+      "twitter": null,
+      "weibo": null
+    },
+    "sidebar": {
+      "Custom link name": "https://customlink.com"
+    }
   }
 }
