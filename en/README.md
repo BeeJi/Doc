@@ -1,3 +1,2 @@
 # BeeJi Mobile Rich Text Editor
-[BeeJi](https://github.com/BeeJi/BeeJi)
-
+[BeeJi](https://github.com/BeeJi/BeeJi) 

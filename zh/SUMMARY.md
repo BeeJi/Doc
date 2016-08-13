@@ -1,2 +1,3 @@
-* [GitHub](https://github.com/BeeJi/Beeji)
-* [plugins](plugins.md)
+* Get Started
+    * [01. Your First Steps](get-started/first-steps.md)
+    * [02. Customize](customize.md)
