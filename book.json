@@ -1,9 +1,9 @@
 {
-  "author": "Chengwei Yang <me@chengweiyang.cn>",
-  "description": "This is a sample book created by gitbook",
-  "extension": null,
-  "generator": "site",
-  "isbn": null,
+  "gitbook": ">=2.0.0",
+  "language": "en",
+  "structure": {
+    "readme": "README.md"
+  },
   "links": {
     "sharing": {
       "all": null,
@@ -13,24 +13,7 @@
       "weibo": null
     },
     "sidebar": {
-      "Chengwei's Blog": "http://www.chengweiyang.cn"
+      "GitHub": "https://github.com/BeeJi/BeeJi"
     }
-  },
-  "output": null,
-  "pdf": {
-    "fontSize": 12,
-    "footerTemplate": null,
-    "headerTemplate": null,
-    "margin": {
-      "bottom": 36,
-      "left": 62,
-      "right": 62,
-      "top": 36
-    },
-    "pageNumbers": false,
-    "paperSize": "a4"
-  },
-  "plugins": [],
-  "title": "Sample GitBook",
-  "variables": {}
+  }
 }
