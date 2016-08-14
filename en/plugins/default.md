@@ -37,6 +37,9 @@ Paragraph style decrease indent
 ## indentincrease
 Paragraph style increase indent
 
+## backgroundtext
+Text with background color
+
 ## bold
 Bold font style
 

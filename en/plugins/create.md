@@ -118,6 +118,9 @@ This method will return the javascript Range object,
 it means we can get all javascript standard methods or properties in Range object, 
 like commonAncestorContainer or startContainer and so on
 
+* `setRange`
+Set a range object to editor manually.
+
 # 3. Other options
 ## 3.1 className
 Each plugin will be inserted into a `li` element.
@@ -135,11 +138,17 @@ It means we can customize our plugin style by css like below:
 ```
 stylesheet: '.className {font-size: 20px;}'
 ```
-
 If we use CommonJS, we can just require a stylesheet path, like 
 ```
 stylesheet: require('./path/style.css')
 ```
+
+## 3.3 label
+If we didn't set the icon for plugin, we can just set text by option `label`.
+
+And we can use option `stylesheet` to control the label style.
+
+Also, the plugin event will bind to this label.
 
 # 4. Fully example
 ```
